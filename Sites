@@ -27,3 +27,44 @@ http://mypy-lang.org/
 
 https://palletsprojects.com/ - Flask,Click, Jinja, Werkzueg, ItsDangerous, MarkupSafe
 
+https://github.com/nuvic/flask_for_startups
+
+https://lucumr.pocoo.org/projects/
+  Open Source Libraries
+    Python:
+
+    Pygments — syntax highlighter written in Python. 2005-
+    Jinja — template engine for Python. 2006-
+    Ruty — a port of Django templates to Ruby. 2007
+    Sphinx — a Python documentation tool. 2007-
+    Werkzeug — WSGI utility library for Python. 2007- *
+    Babel — collection of tools for internationalizing Python applications. 2008- *
+    CleverCSS — CSS toolkit for Python, 2009- *
+    GHRML — HAML inspired template engine based on Genshi for Python. 2009 *
+    MarkupSafe — a tainted HTML string for Python. 2010- *
+    Logbook — a logging library for Python. 2010-2012
+    Flask — a microframework for Python based on good intentions. 2010- *
+    itsdangerous — a cryptographic signing library. 2012- *
+    Click — a command line interface utility library. 2014- *
+    PluginBase — a plugin system for Python. 2014- *
+    pipsi — a wrapper around pip for script installation. 2014- *
+    rb — a redis clustering library for Python. 2015- *
+    
+    
+   
+https://palletsprojects.com/p/werkzeug/
+
+https://www.youtube.com/c/WhatsACreel/videos
+
+
+https://wsgi.readthedocs.io/en/latest/what.html
+https://peps.python.org/pep-3333/
+https://webpy.org/
+
+
+https://coverage.readthedocs.io/en/6.4.1/
+
+https://neetcode.io/
+
+
+
